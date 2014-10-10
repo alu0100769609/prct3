@@ -1,2 +1,3 @@
 21.- No hay diferencia. Sólo que llamamos a un fichero en vez de hacerlo directamente por consola
 
+27.- En pry hay que definir la función hello con la que se llama a Hola Mundo
